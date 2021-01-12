@@ -15,7 +15,7 @@ function MinusId(){
 
 
             doIt.append(space)
-            doIt.append(calculate)
+            doIt.append(sid)
             doIt.append(space)
             
 
